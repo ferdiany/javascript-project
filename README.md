@@ -18,6 +18,6 @@ This is my javascript project for completing task from Sanbercode
 `npm install mathjs` <br>
 
 ## How to Run?
-`node <filename>.js>`
+`node <filename>.js`
 #### example:
-`node test.js`
+`node soal1.js`
