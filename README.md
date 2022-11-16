@@ -14,6 +14,9 @@ This is my javascript project for completing task from Sanbercode
 #### Install library prompt-sync
 `npm install prompt-sync`<br>
 
+#### Install library math js
+`npm install mathjs` <br>
+
 ## How to Run?
 `node <filename>.js>`
 #### example:
